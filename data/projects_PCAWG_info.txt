@@ -1,0 +1,49 @@
+project	Primary.Tissue	Tumour.Subtype	n_donors	n_primary	description	primary_location	country
+BLCA-US	Bladder	Invasive Urothelial Bladder cancer	23	23	Bladder Urothelial Cancer - TCGA, US	Bladder	United States
+BOCA-UK	Bone/SoftTissue	Osteosarcoma / chondrosarcoma / rare subtypes	64	64	Bone Cancer - UK	Bone	United Kingdom
+BRCA-EU	Breast	ER+ve, HER2-ve	78	78	Breast ER+ and HER2- Cancer - EU/UK	Breast	European Union, United Kingdom
+BRCA-UK	Breast	Triple Negative/Lobular Cancer/other	45	45	Breast Triple Negative/Lobular Cancer - UK	Breast	United Kingdom
+BRCA-US	Breast	Ductal & lobular	91	81	Breast Cancer - TCGA, US	Breast	United States
+BTCA-SG	Hepatobilliary	Gall bladder cancer / Cholangiocarcinoma	12	12	Biliary Tract Cancer - SG	Gall Bladder	Singapore
+CESC-US	Cervix	Squamous cell carcinoma	20	20	Cervical Squamous Cell Carcinoma - TCGA, US	Cervix	United States
+CLLE-ES	Blood	Chronic lymphocytic leukemia (CLL) with mutated and unmutated IgVH	95	95	Chronic Lymphocytic Leukemia - ES	Blood	Spain
+CMDI-UK	Blood	Myelodysplastic Syndromes, Myeloproliferative Neoplasms & Other Chronic Myeloid Malignancies	62	62	Chronic Myeloid Disorders - UK	Blood	United Kingdom
+COAD-US	Colorectal	Adenocarcinoma	44	44	Colon Adenocarcinoma - TCGA, US	Colorectal	United States
+DLBC-US	Blood	Lymphoid neoplasm diffuse large B-cell lymphoma	7	7	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma - TCGA, US	Blood	United States
+EOPC-DE	Prostate	Early Onset	69	69	Early Onset Prostate Cancer - DE	Prostate	Germany
+ESAD-UK	Esophageal	Esophageal adenocarcinoma	98	98	Esophageal Adenocarcinoma - UK	Esophagus	United Kingdom
+GACA-CN	Gastric	Intestinal- and diffuse-type	37	37	Gastric Cancer - CN	Stomach	China
+GBM-US	Brain	Glioblastoma multiforme	41	31	Brain Glioblastoma Multiforme - TCGA, US	Brain	United States
+HNSC-US	Skin	Squamous cell carcinoma	44	44	Head and Neck Squamous Cell Carcinoma - TCGA, US	Head and neck	United States
+KICH-US	Renal	Kidney chromophobe	45	45	Kidney Chromophobe - TCGA, US	Kidney	United States
+KIRC-US	Renal	Clear cell carcinoma	37	37	Kidney Renal Clear Cell Carcinoma - TCGA, US	Kidney	United States
+KIRP-US	Renal	Papillary carcinoma	33	33	Kidney Renal Papillary Cell Carcinoma - TCGA, US	Kidney	United States
+LAML-KR	Blood	Acute myeloid leukaemia	8	8	Acute Myeloid Leukemia - KR	Blood	South Korea
+LAML-US	Blood	Acute myeloid leukaemia	0	0	Acute Myeloid Leukemia - TCGA, US	Blood	United States
+LGG-US	Brain	Lower grade glioma	18	18	Brain Lower Grade Glioma - TCGA, US	Brain	United States
+LICA-FR	Liver	Hepatocellular carcinoma (Secondary to alcohol and adiposity)	6	6	Liver Cancer - FR	Liver	France
+LIHC-US	Liver	Hepatocellular carcinoma	54	54	Liver Hepatocellular carcinoma - TCGA, US	Liver	United States
+LINC-JP	Liver	Hepatocellular carcinoma (Virus associated)	28	28	Liver Cancer - NCC, JP	Liver	Japan
+LIRI-JP	Liver	Hepatocellular carcinoma (Virus associated)	261	261	Liver Cancer - RIKEN, JP	Liver	Japan
+LUAD-US	Lung	Adenocarcinoma	38	38	Lung Adenocarcinoma - TCGA, US	Lung	United States
+LUSC-US	Lung	Squamous cell carcinoma	48	48	Lung Squamous Cell Carcinoma - TCGA, US	Lung	United States
+MALY-DE	Blood	Germinal center B-cell derived lymphomas	100	100	Malignant Lymphoma - DE	Blood	Germany
+MELA-AU	Skin	Cutaneous melanoma	70	0	Skin Cancer - AU	Skin	Australia
+ORCA-IN	Skin	Gingivobuccal	13	13	Oral Cancer - IN	Head and neck	India
+OV-AU	Ovarian	Serous cystadenocarcinoma	71	61	Ovarian Cancer - AU	Ovary	Australia
+OV-US	Ovarian	Serous cystadenocarcinoma	42	42	Ovarian Serous Cystadenocarcinoma - TCGA, US	Ovary	United States
+PACA-AU	Pancreatic	Ductal adenocarcinoma	94	93	Pancreatic Cancer - AU	Pancreas	Australia
+PACA-CA	Pancreatic	Ductal adenocarcinoma	147	146	Pancreatic Cancer - CN	Pancreas	China
+PAEN-AU	Pancreatic	Endocrine neoplasms	49	49	Pancreatic Cancer Endocrine neoplasms - AU	Pancreas	Australia
+PAEN-IT	Pancreatic	Enteropancreatic endocrine tumors and rare pancreatic exocrine tumors	36	36	Pancreatic Endocrine Neoplasms - IT	Pancreas	Italy
+PBCA-DE	Brain	Medulloblastoma & Pediatric pilocytic astrocytoma	235	235	Pediatric Brain Cancer - DE	Brain	Germany
+PRAD-CA	Prostate	Adenocarcinoma	116	116	Prostate Adenocarcinoma - CA	Prostate	Canada
+PRAD-UK	Prostate	Adenocarcinoma	82	37	Prostate Adenocarcinoma - UK	Prostate	United Kingdom
+PRAD-US	Prostate	Adenocarcinoma	19	19	Prostate Adenocarcinoma - TCGA, US	Prostate	United States
+READ-US	Rectal	Adenocarcinoma	16	16	Rectum Adenocarcinoma - TCGA, US	Colorectal	United States
+RECA-EU	Renal	Renal cell carcinoma (Focus on but not limited to clear cell subtype)	74	74	Renal Cell Cancer - EU/FR	Kidney	European Union, France
+SARC-US	Bone/SoftTissue	Liposarcoma and Multiple subtypes	34	34	Sarcoma - TCGA, US	Mesenchymal	United States
+SKCM-US	Skin	Cutaneous melanoma	37	2	Skin Cutaneous melanoma - TCGA, US	Skin	United States
+STAD-US	Gastric	Adenocarcinoma	38	38	Gastric Adenocarcinoma - TCGA, US	Stomach	United States
+THCA-US	Thyroid	Thyroid carcinoma	48	48	Head and Neck Thyroid Carcinoma - TCGA, US	Head and neck	United States
+UCEC-US	Endometrium	Uterine corpus endometrial carcinoma	51	51	Uterine Corpus Endometrial Carcinoma- TCGA, US	Uterus	United States
