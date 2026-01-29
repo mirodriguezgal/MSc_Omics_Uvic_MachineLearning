@@ -6,3 +6,5 @@ To work with the code contained in this repository you will need Python 3. The p
 In order to install the conda environment use `conda create --name MScOmicsVic pandas plotly numpy openpyxl nbformat scikit-learn umap-learn scipy xgboost keras tensorflow matplotlib jupyter` from the terminal on a UNIX-based system (Linux or MacOS) or from the Anaconda Prompt terminal on Windows (it will be available on your system applications after installing Anaconda on Windows).
 
 In case you do not use an IDE such as VScode, to interact with the notebook the environment includes the jupyter framework: after installing the environment from the file and activating it (`conda activate MScOmicsVic`) you will only need to install the environment on the notebook through `python -m ipykernel install --user --name=MScOmicsVic` and start the jupyter notebook (`jupyter notebook`). Once inside the Notebook, you can change the kernel to the environment.
+
+Finally, all the input data is already available at the data folder, with the exception of the PCAWG expression. You must download it into the data folder from here: https://drive.google.com/file/d/1Jii-dF4yIzJcw_AZN4a6GDZvAxzbGamL
